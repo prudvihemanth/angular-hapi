@@ -1,0 +1,7 @@
+{
+  "name": "angular-hapi-example",
+  "version": "0.1.0",
+  "dependencies": {
+    "hapi": "^8.8.0"
+  }
+}
